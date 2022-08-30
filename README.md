@@ -33,6 +33,7 @@ Follow the process described in the course to `eb init` a new application and `e
 
 ### My Elastic Beanstalk Endpoint
 http://image-filter-02-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www.fanabc.com/wp-content/uploads/2022/08/PM-Abiy-in-Algeria-3.jpg
+http://image-filter-02-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ebc.et/admin/Upload/NewsImage/1616_25.jpg
 
 ## Stand Out (Optional)
 
